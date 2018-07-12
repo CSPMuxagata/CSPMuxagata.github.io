@@ -1163,6 +1163,10 @@
 				  flex: 100%;
 				  max-width: 100%;
 				}
+				.pdf{
+					width: 250px;
+					height: 200px;
+				}
 			  }
 /* Footer */
 
